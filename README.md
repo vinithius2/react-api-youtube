@@ -1,6 +1,6 @@
 # Projeto de estudo React
 
-Fonte de estudo Udemy - [Redux](https://www.udemy.com/react-redux/)
+Fonte de estudo Udemy - [React](https://www.udemy.com/react-redux/)
 
 *Dominando os fundamentos do React v16.3.2 e Redux ao desenvolver aplicativos com o React Router, Webpack e ES6*
 
